@@ -9,7 +9,7 @@ menu:
   primary:
     name: News
     url: /news/
-    weight: 2
+    weight: 95
 ---
 
 - [OSCAL 1.1.3 Release](https://github.com/usnistgov/OSCAL/releases/tag/v1.1.3) - November 25, 2024

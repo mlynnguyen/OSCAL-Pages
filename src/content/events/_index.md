@@ -64,10 +64,10 @@ You can access the [web version of this calendar by clicking this link](https://
 
 The NIST OSCAL team hosts meetings and other events with the OSCAL community on different topics. We encourage you to attend these meetings as a way to keep up-to-date on and contribute to the development of OSCAL.
 <br></br>
-- ### **OSCAL Mini Workshops**
-  The NIST OSCAL team is hosting a new series of mini workshops, that aims to address topics of interests for our community and to open this forum for its members to present their OSCAL-related work. Unless specifically stated, the workshops will not require a deep technical understanding of OSCAL, and the dialogue is informal, allowing the community to interact with the presenters and with the OSCAL team members. 
+- ### **OSCAL Monthly Workshops**
+  The NIST OSCAL team is hosting a new series of monthly workshops, that aims to address topics of interests for our community and to open this forum for its members to present their OSCAL-related work. Unless specifically stated, the workshops will not require a deep technical understanding of OSCAL, and the dialogue is informal, allowing the community to interact with the presenters and with the OSCAL team members. 
   
-  **[The Mini Workshops page](../learn/presentations/mini-workshop/)** contains a masterlist of all mini-workshop recordings and presentation slides. 
+  **[The Monthly Workshops page](../learn/presentations/mini-workshop/)** contains a masterlist of all mini-workshop recordings and presentation slides. 
   
   **For up-to-date information about the workshops, please visit our [OSCAL CSRC](https://csrc.nist.gov/projects/open-security-controls-assessment-language/oscal-adopters-workshops) page.**
   
@@ -81,7 +81,7 @@ The NIST OSCAL team hosts meetings and other events with the OSCAL community on 
   
 - ### **OSCAL Conference Details**
   These OSCAL conference workshops will provide attendees an opportunity to familiarize themselves and build skills in the development and use of OSCAL. We encourage developers of control-oriented security tools, and organizations that want to use or create OSCAL-based information, to register and attend the workshop.
-  - [4th NIST OSCAL Workshop](../learn/presentations/oscal-workshop-2023-04) - May 23, 2023
+  - [4th NIST OSCAL Conference and Workshop](../learn/presentations/oscal-workshop-2023-04) - May 23, 2023
   - [3rd NIST OSCAL Workshop](../learn/presentations/oscal-workshop-2022-03) - March 1-2, 2022
   - [2nd NIST OSCAL Workshop](../learn/presentations/oscal-workshop-2021-02) - February 2-3, 2021
   - [1st NIST OSCAL Workshop](../learn/presentations/OSCAL-workshop-20191105.pdf) - November 5, 2019

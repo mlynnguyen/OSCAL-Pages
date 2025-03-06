@@ -12,12 +12,18 @@ aliases:
   - /concepts/
 weight: 1
 ---
+<p></p>
+{{<callout>}}This concepts page serves as a gateway to essential information designed to help community members navigate and fully understand OSCAL. {{</callout>}}
 
-This section of the OSCAL website presents:
+Here, you'll find a curated collection of key resources, including detailed explanations of the terminology used in OSCAL, a breakdown of OSCAL's architecture and its various layers, and insights into the types of identifiers OSCAL supports. You'll also discover practical guidance on profile resolution, risk management implementation, and examples of how to work with OSCAL data in formats like XML, JSON, and YAML. Additionally, there is an overview of how OSCAL aligns with other document standards.
+
+<br></br>
+Explore the links below to dive deeper into these key OSCAL concepts:
+
 
 - Key [terminology](terminology/) used in OSCAL;
 - An overview of the OSCAL [layers and models](layer/), to include who and what processes they apply to;
-- An oververview of [identifier use](identifier-use) in OSCAL models;
+- An overview of [identifier use](identifier-use) in OSCAL models;
 - A [Profile Resolution Specification](processing/) for handling the transformation of OSCAL Profiles into OSCAL Catalogs;
-- Illustrative [examples](examples/) of how to represent control implementation and risk management data in OSCAL XML, JSON, and YAML formats; and
+- Illustrative [examples](../../resources/examples/) of how to represent control implementation and risk management data in OSCAL XML, JSON, and YAML formats including actual data and mockups for demonstration;
 - A discussion of how OSCAL [relates](relations-to-other/) to and draws inspiration from other documentary standards.

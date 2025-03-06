@@ -5,6 +5,10 @@ heading: OSCAL Blog Posts
 description: Blog posts from staff and community members about OSCAL.
 toc:
   enabled: true
+menu:
+  primary:
+    name: Blog
+    weight: 90
 ---
 
 
