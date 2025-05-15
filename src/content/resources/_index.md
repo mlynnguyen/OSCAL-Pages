@@ -2,6 +2,7 @@
 title: OSCAL Resources
 date: 2023-09-06 13:48:17 -0400
 heading: OSCAL Resources
+suppresstopiclist: true
 menu:
   primary:
     name: Resources
@@ -12,7 +13,7 @@ sidenav:
   activerenderdepth: 2
 ---
 
-The OSCAL project maintains a variety of resources to learn and use OSCAL.
+Find helpful guides, tools, and references to help you learn, implement, and get the most out of OSCAL. Whether you're just getting started or looking for advanced support, the resources below will support your journey with OSCAL.
 
 ### OSCAL Reference
 
@@ -23,12 +24,12 @@ For each released model, outline entries are linked to their corresponding refer
 
 ### Examples
 
-The [examples](./examples/) page has links and information to examples of OSCAL content in the official NIST repositories.
+Browse a collection of real-world OSCAL [examples](./examples/) from the official NIST repositories. These examples showcase how OSCAL can be used in practice, helping you better understand how to structure and implement your own content.
 
 ### Tools
 
-The [tools](./tools) page has information about NIST's reference implementations of software and reusable libraries. Additionally, there are links to community-maintained lists of software and information about OSCAL-enabled tools.
+Discover [tools](./tools) developed by NIST and the wider community to support OSCAL implementation. This page includes reference software, reusable libraries, and curated links to OSCAL-enabled tools maintained by contributors across the ecosystem.
 
 ### Downloads
 
-The [downloads](./downloads/) page has links and instructions to download releases and development snapshots of the OSCAL data models.
+Get the latest OSCAL data models here. The [downloads](./downloads/) page has links and clear instructions to help you download releases and development snapshots of the OSCAL data models.

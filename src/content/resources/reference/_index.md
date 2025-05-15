@@ -10,8 +10,16 @@ aliases:
 
 <br/><br/><br/>
 
-### This page has moved to the new OSCAL reference website at: 
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://pages.nist.gov/OSCAL-Reference/" />
+  </head>
+  <body>
+    <p>This page should automatically redirect to the OSCAL Reference page. If it does not, please <a href="https://pages.nist.gov/OSCAL-Reference/">click here</a>.</p>
+  </body>
+</html>
 
-## [The OSCAL Reference Page](https://pages.nist.gov/OSCAL-Reference/)
+## This page has moved to the new OSCAL reference website at: 
+# [The OSCAL Reference Page](https://pages.nist.gov/OSCAL-Reference/)
 
 <br/><br/><br/>
