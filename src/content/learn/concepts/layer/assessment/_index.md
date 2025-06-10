@@ -3,7 +3,7 @@ title: Assessment Layer
 date: 2021-05-27 10:55:53 -0400
 heading: "OSCAL Assessment Layer"
 suppresstopiclist: true
-weight: 40
+weight: 60
 sidenav:
   activerenderdepth: 2
   inactiverenderdepth: 2

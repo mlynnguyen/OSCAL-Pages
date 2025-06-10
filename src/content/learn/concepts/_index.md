@@ -21,9 +21,11 @@ Here, you'll find a curated collection of key resources, including detailed expl
 Explore the links below to dive deeper into these key OSCAL concepts:
 
 
-- Key [terminology](terminology/) used in OSCAL;
+- Learn about key [terminology](terminology/) used in OSCAL;
+- The usage of [URIs](uri-use/) (Uniform Resource Identifiers) in OSCAL;
+- Utilizing [Well-formed Data Formats](validation/) to easily read or write OSCAL documents;
+- An overview of [identifier use and UUIDs (Universally Unique Identifiers)](identifier-use) in OSCAL models;
 - An overview of the OSCAL [layers and models](layer/), to include who and what processes they apply to;
-- An overview of [identifier use](identifier-use) in OSCAL models;
 - A [Profile Resolution Specification](processing/) for handling the transformation of OSCAL Profiles into OSCAL Catalogs;
-- Illustrative [examples](../../resources/examples/) of how to represent control implementation and risk management data in OSCAL XML, JSON, and YAML formats including actual data and mockups for demonstration;
 - A discussion of how OSCAL [relates](relations-to-other/) to and draws inspiration from other documentary standards.
+- Illustrative [examples](../../resources/examples/) of how to represent control implementation and risk management data in OSCAL XML, JSON, and YAML formats including actual data and mockups for demonstration;
