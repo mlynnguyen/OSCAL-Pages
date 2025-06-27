@@ -15,11 +15,50 @@ menu:
 
 <p>Stay up-to-date with the newest blog posts from our OSCAL community members. Below you'll find a list of recent blog titles, simply click on any title to dive straight into the post you're interested in: </p>
 
+- **Test-Driving Compliance: A Student's Perspective on OSCAL & Government Procurement** -- 06/26/2025 -- [Read More](#20250626)
 - **Demystifying Compliance Automation: A Student’s Perspective on the Continuous Compliance Framework** -- 05/27/2025 -- [Read More](#20250527)
 - **Revolutionizing Compliance Through Machine-Readable Data: A Student's Perspective** -- 04/16/2025 -- [Read More](#20250416)
 - **OSCAL Continues to Grow Roots in Europe** -- 04/09/2025 -- [Read More](#20250409)
 
 ##
+---
+### 2025/06/26
+## <span style="color:#4d80d1"> Test-Driving Compliance: A Student's Perspective on OSCAL & Government Procurement </span>
+
+#### -- Presented By: 
+  - **Mats Nahlinder**, *CEO & Co-Founder, Sunstone Secure*
+  - **Robert Ficcaglia**, *CTO and Co-Founder, Sunstone Secure*
+
+  ##### -- Blog by: Marilyn Nguyen (NIST Pathways, IT Student Trainee) [marilyn.nguyen@nist.gov](mailto:marilyn.nguyen@nist.gov)
+  ### <p></p>
+
+
+Attending the OSCAL Monthly Workshop titled "OSCAL - A 'FastTrack' to agency contracting" was an insightful experience, especially in understanding how compliance and procurement processes can be improved through automation and standardization. The workshop, presented by Mats Nahlinder and Robert Ficcaglia, founders of Sunstone Secure, opened my eyes to the practical challenges agencies face in vendor evaluation and system procurement, and how OSCAL can be a game changer. Their focus on FedRAMP, a government-wide program that standardizes cloud service security assessments, made the topic very relevant.
+
+One key takeaway was the exploration of the current pain points in agency procurement. Despite certifications like SOC-2 or FedRAMP levels, there is often little insight into the actual quality and maturity of a cloud service provider's security posture. This disconnect leads to high risks for agencies, who may contract services that are not fully compliant or mature enough, sometimes only realizing this after the deal is signed. The presenters highlighted how OSCAL can address this by providing a structured, data-driven, and risk-focused approach to evaluating vendors before procurement, rather than relying on broad certifications or fixed risk levels.
+
+The workshop also emphasized how agencies can use OSCAL profiles to define their own risk posture by mapping security controls to frameworks like MITRE ATT&CK, which helps tailor compliance requirements to actual threats. This risk-based posture then becomes the foundation of the RFP process, where agencies specify Key Security Indicators (KSIs) in OSCAL format. Vendors respond with concrete, measurable data about how their systems perform against these KSIs, enabling agencies to make more informed, transparent, and traceable decisions. This approach promises to streamline the procurement cycle by making compliance assessment more precise and tailored.
+
+What fascinated me most was the demonstration of Sunstone's Artemis digital twin platform. This AI-powered system collects documentation in OSCAL format to automatically generate comprehensive compliance packages, test plans, and audit evidence. The digital twin can simulate attack scenarios and vendor security postures before contracts are signed, essentially allowing agencies to "test drive" vendors' security readiness. This kind of automation not only boosts efficiency, but also improves accuracy and reduces third-party risks, which are crucial for federal agencies managing sensitive data.
+
+Overall, the workshop provided a valuable perspective on how OSCAL is evolving beyond just a technical specification to become a practical tool for risk-driven procurement and continuous monitoring. As a student, it was encouraging to see the blend of standards, AI, and real-world applications come together to solve complex cybersecurity challenges. The ability to customize security controls, measure effectiveness through KSIs, and simulate risk scenarios through a digital twin represents a promising direction for the future of agency contracting. This workshop not only deepened my understanding of cybersecurity compliance but also sparked an interest in how data-driven decision-making and automation can reshape the government acquisition process.
+
+
+
+### Location: 
+  - Online
+  
+  ### Date and Time:
+  - 18 June 2025, 11:00 AM - 12:00 PM EDT
+
+#
+  *View this June 2025 workshop recording and other files* [here](https://csrc.nist.gov/Projects/open-security-controls-assessment-language/oscal-adopters-workshops#:~:text=%2D%2006/18/2025:).
+  
+  *Learn more about the OSCAL Monthly Workshop series* [here](../../learn/presentations/mini-workshop).
+
+
+# <div></div>
+
 ---
 
 ### 2025/05/27
