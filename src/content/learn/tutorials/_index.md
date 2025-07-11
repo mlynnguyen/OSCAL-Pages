@@ -5,20 +5,71 @@ suppresstopiclist: true
 weight: 2
 ---
 
-The following tutorials provide step-by-step walk-throughs explaining how to create OSCAL content of various types.
+<br>
+<div style = "background-color: #e2e8f0; padding: 1em 1.5em; border-radius: 6px; border: 1px solid #d0d7de; margin-bottom: 2em;">
 
-### [General Topics](general/)
+This page serves as the central hub for all OSCAL tutorials. Learn how to build, extend, and apply OSCAL content across general topics, the control layer, and the implementation layer. 
+</div>
 
-- [Using the metadata section](general/metadata/): Explains use of the `metadata` section that is required to be provided in all OSCAL content.
-- [Extending OSCAL models](general/extension/): Discusses how to use OSCAL properties and links to provided extended data in OSCAL content.
-- [Testing new releases](general/releases/): Provides a few pointers for community members looking to test new OSCAL releases.
+<!-- General Topics Box, contains subsections to other tutorials -->
+<div style="display: flex; flex-direction: column; gap: 2em;">
+    <div style="background-color: #f9fafb; padding: 1.5em; border: 1px solid #cbd5e0; border-radius: 8px;">
+        <h3 style="margin-top: 0;"><a href="general/" style="color: #005ea2;">General Topics</a></h3>
+        <p>Concepts and tutorials that apply to all OSCAL models.</p>
+    <!-- Subsection: "Using the Metadata" Box -->
+        <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em;">
+            <div style="flex: 1 1 280px; background-color: #eef3f7; padding: 1em; border-radius: 6px; border-left: 4px solid #005ea2;">
+            <strong><a href="general/metadata/" style="color: #005ea2;">Using the Metadata Section</a></strong><br>
+            Learn how to structure and populate the required <code>metadata</code> section in OSCAL content.
+        </div>
+    <!-- Subsection: "Extending OSCAL Models Box"-->
+        <div style="flex: 1 1 280px; background-color: #eef3f7; padding: 1em; border-radius: 6px; border-left: 4px solid #005ea2;">
+            <strong><a href="general/extension/" style="color: #005ea2;">Extending OSCAL Models</a></strong><br>
+            Use <code>props</code> and <code>links</code> to add custom organizational details.
+        </div>
+        <!-- Subsection: "Testing New Releases" Box-->
+        <div style="flex: 1 1 280px; background-color: #eef3f7; padding: 1em; border-radius: 6px; border-left: 4px solid #005ea2;">
+            <strong><a href="general/releases/" style="color: #005ea2;">Testing New Releases</a></strong><br>
+                Guidance for testing OSCAL updates and contributing feedback to the community.
+        </div>  
+    </div>
+</div>
 
-### [Control Layer Topics](control/)
 
-- [Creating a Basic Control Catalog](control/basic-catalog/): Explains how to create a [catalog](/concepts/terminology/#catalog) of [controls](/concepts/terminology/#control) using the OSCAL [catalog model](/concepts/layer/control/catalog/).
-- [Creating a Basic Profile](/learn/tutorials/profile/): Explains how to create and modify a subset of controls from a catalog in OSCAL by using the OSCAL [profile model](/concepts/layer/control/profile/).
+<!-- Control Layer Topics -->
+<div style="background-color: #f9fafb; padding: 1.5em; border: 1px solid #cbd5e0; border-radius: 8px;">
+    <h3 style="margin-top: 0;"><a href="control/" style="color: #2e8540;">Control Layer Topics</a></h3>
+    <p>Tutorials for working with control catalogs and profiles using the OSCAL control layer.</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em;">
+    <!-- Subsection: "Creating a Basic Control Catalog" Box -->
+        <div style="flex: 1 1 280px; background-color: #e7f2ec; padding: 1em; border-radius: 6px; border-left: 4px solid #2e8540;">
+            <strong><a href="control/basic-catalog/" style="color: #2e8540;">Creating a Basic Control Catalog</a></strong><br>
+            Build a catalog of controls using the OSCAL catalog model.
+        </div>
+    <!-- Subsection: "Creating a Basic Profile" Box -->
+        <div style="flex: 1 1 280px; background-color: #e7f2ec; padding: 1em; border-radius: 6px; border-left: 4px solid #2e8540;">
+        <strong><a href="/learn/tutorials/profile/" style="color: #2e8540;">Creating a Basic Profile</a></strong><br>
+            Create and tailor control profiles using the OSCAL profile model.
+        </div>
+    </div>
+</div>
 
-### [Implementation Layer Topics](implementation/)
 
-- [Creating a Basic Component Definition](implementation/simple-component-definition/): Teaches how to create a component-definition using the OSCAL [component definition](/concepts/layer/implementation/component-definition/) model.
-- [Representing test validation information](implementation/validation-modeling/): Describes how to represent test validation information (e.g., FIPS-140-2) using a component in an OSCAL [component definition](/concepts/layer/implementation/component-definition/) or [system security plan](/concepts/layer/implementation/ssp/). 
+<!-- Implementation Layer Topics -->
+<div style="background-color: #f9fafb; padding: 1.5em; border: 1px solid #cbd5e0; border-radius: 8px;">
+    <h3 style="margin-top: 0;"><a href="implementation/" style="color: #c29100;">Implementation Layer Topics</a></h3>
+    <p>Modeling system components and validation data using implementation layer models.</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em;">
+        <div style="flex: 1 1 280px; background-color: #fff8e5; padding: 1em; border-radius: 6px; border-left: 4px solid #fdb81e;">
+    <!-- Subsection: "Creating a Basic Component Definition" Box -->
+            <strong><a href="implementation/simple-component-definition/" style="color: #c29100;">Creating a Basic Component Definition</a></strong><br>
+            Learn to create a component definition document using OSCAL.
+        </div>
+    <!-- Subsection: "Representing Test Validation Information" Box -->
+        <div style="flex: 1 1 280px; background-color: #fff8e5; padding: 1em; border-radius: 6px; border-left: 4px solid #fdb81e;">
+            <strong><a href="implementation/validation-modeling/" style="color: #c29100;">Representing Test Validation Information</a></strong><br>
+            Capture test validation results (e.g., FIPS 140-2) in a component definition or system security plan</a>.
+        </div>
+    </div>
+  </div>
+</div>
