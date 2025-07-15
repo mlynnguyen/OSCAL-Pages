@@ -20,7 +20,7 @@ Whether you're new to OSCAL or need a refresher, these detailed guides are desig
 
 <!-- Box containing information about Creating a Basic Control Catalog -->
 <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em;">
-  <div style="flex: 1 1 300px; border-left: 4px solid #005ea2; background-color: #f1f5f9; padding: 1em; border-radius: 6px;">
+  <div style="flex: 1 1 300px; border-left: 4px solid #2378c3; background-color: #eff6fb; padding: 1em; border-radius: 6px;">
   <strong>Creating a Basic Control Catalog</strong><br>
   Learn how to structure and define your own control catalog using the OSCAL catalog model.<br>
 
@@ -28,7 +28,7 @@ Whether you're new to OSCAL or need a refresher, these detailed guides are desig
 </div>
 
 <!-- Box containing information about Building a Control Profile -->
-<div style="flex: 1 1 300px; border-left: 4px solid #2e8540; background-color: #f1f5f9; padding: 1em; border-radius: 6px;">
+<div style="flex: 1 1 300px; border-left: 4px solid #2378c3; background-color: #eff6fb; padding: 1em; border-radius: 6px;">
   <strong>Building a Control Profile</strong><br>
   Learn how to create tailored profiles from catalogs to meet specific implementation needs using the OSCAL profile model.<br>
 

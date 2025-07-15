@@ -21,7 +21,7 @@ toc:
 <div style="display: flex; flex-wrap: wrap; gap: 1em; margin-top: 1em;">
 
 <!-- Box containing information about creating basic component definitions -->
-  <div style="flex: 1 1 300px; border-left: 4px solid #005ea2; background-color: #f1f5f9; padding: 1em; border-radius: 6px;">
+  <div style="flex: 1 1 300px; border-left: 4px solid #4d8055; background-color: #ecf3ec; padding: 1em; border-radius: 6px;">
 
 <strong>Creating a Basic Component Definition</strong><br>
 Learn how to construct a component definition using the OSCAL [component definition](/concepts/layer/implementation/component-definition/) model, with a focus on precise structure and compliance. <br>
@@ -30,7 +30,7 @@ Learn how to construct a component definition using the OSCAL [component definit
 </div>
 
 <!-- Box containing information about Representing Test Validation Informations -->
-<div style="flex: 1 1 300px; border-left: 4px solid #2e8540; background-color: #f1f5f9; padding: 1em; border-radius: 6px;">
+<div style="flex: 1 1 300px; border-left: 4px solid #4d8055; background-color: #ecf3ec; padding: 1em; border-radius: 6px;">
 
 <strong>Representing Test Validation Information</strong><br>
 Understand the process of representing test validation information (e.g., FIPS-140-2) within OSCAL's [component definition](/concepts/layer/implementation/component-definition/) and [system security plan](/concepts/layer/implementation/ssp/) models to ensure accurate documentation and traceability. <br>
