@@ -17,10 +17,10 @@
 		.st7 {fill:#b4d0b9;stroke:#4d8055;stroke-width:1.5}
 		.st8 {fill:#b4d0b9;stroke:#4d8055;stroke-dasharray:10.5,7.5;stroke-width:1.5}
 		.st9 {fill:#304a1e;font-family:Calibri;font-size:1.16666em;font-weight:bold}
-		.st10 {fill:#f4f1f9;stroke:#8168b3;stroke-width:0.25}
-		.st11 {fill:#d0c3e9;stroke:#8168b3;stroke-dasharray:10.5,7.5;stroke-width:1.5}
-		.st12 {fill:#4c3d69;font-family:Calibri;font-size:1.16666em;font-weight:bold}
-		.st13 {fill:#d0c3e9;stroke:#8168b3;stroke-width:1.5}
+		.st10 {fill:#fff2cc;stroke:#7f6000;stroke-width:0.25}
+		.st11 {fill:#fdd69d;stroke:#7f6000;stroke-dasharray:10.5,7.5;stroke-width:1.5}
+		.st12 {fill:#dc7d3f;font-family:Calibri;font-size:1.16666em;font-weight:bold}
+		.st13 {fill:#fdd69d;stroke:#7f6000;stroke-width:1.5}
 		.st14 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
